@@ -1,0 +1,31 @@
+.sidebar{
+	background-color:lightblue;
+	position:fixed;
+	top:50px;
+	left:1100px;
+}
+h1{
+	color:blue; background-color:black ;
+
+}
+h2{
+	color:red;
+}
+p{
+	color:#00A080; 
+	font-family: "Times New Roman", Times, serif; font-size:24px ;
+	
+}
+a{
+	color:red;
+}
+#v{color:green;}
+li{
+	color:orange ;font-size:24px ;
+}	
+.Title{
+	position:absolute;
+	top:-2px 
+	width:25%;
+}
+.content{ position:relative
